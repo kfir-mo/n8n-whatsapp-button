@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-base.WhatsApp",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Communication"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://developers.facebook.com/docs/whatsapp/cloud-api/get-started"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://developers.facebook.com/docs/whatsapp/cloud-api/messages"
+			}
+		]
+	}
+}
